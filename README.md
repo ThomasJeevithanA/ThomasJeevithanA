@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ThomasJeevithanA
-- 👀 I’m interested in ...
+- 👀 I’m interested in space and aliens 
 - 🌱 I’m currently learning react.js
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me thomasjeevithan@outlook.com
 
 <!---
